@@ -72,9 +72,8 @@ This is about helping youth not just understand the world — but shape it.
 ---
 
 ## 🖇 Useful Links
-- 📘 [View full documentation on GitBook](https://your-gitbook-link-here.com)
-- 🌐 [Visit the National 4-H Geospatial Team site](https://your-website-link.com)
-- 💬 [Join our facilitator community (Slack or Forum)](https://link-to-your-community)
+- 📘 [View full documentation on GitBook](WIP)
+- 🌐 [Visit the National 4-H Geospatial Team site](https://www.national4hgeospatialteam.us)
 
 ---
 
