@@ -141,7 +141,7 @@ Highlight key STEM careers:
 
 - 🌍 [AGOL Map Viewer](https://4-h.maps.arcgis.com/apps/mapviewer/index.html?webmap=ca87aa8deac14d2fa20b3f142523fc43)
 - 📄 [Student Worksheet (PDF)](./SatellitesToSeeds–StudentWorksheet.pdf)
-- 🎞 [Presentation Deck](./workingdoc.docx)
+- 🎞 [Presentation Deck](./SatellitesToSeedsPresentation.pptx)
 - 🚨 [Disaster Cards (Canva)](https://www.canva.com/design/DAGnGNAFvbs/3fPB0pZk5TNXZRWa-5o8-Q/edit)
 
 ---
