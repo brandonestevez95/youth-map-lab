@@ -14,7 +14,7 @@ Welcome to the *Satellites to Seeds* workshop — an AI + GIS-powered learning e
 ### ✅ Digital Prep
 Ensure the following:
 - AGOL map is published and shared with students:  
-  📍 [**Launch Map Viewer**](../resources/MapViewerLinkPlaceholder)
+  📍 [**Launch Map Viewer**]((https://4-h.maps.arcgis.com/home/item.html?id=ca87aa8deac14d2fa20b3f142523fc43)
 - Layers added to the map:
   - USDA Plant Hardiness Zones
   - World Soils – Organic Carbon Density
