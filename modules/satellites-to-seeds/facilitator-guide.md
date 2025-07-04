@@ -137,6 +137,39 @@ Highlight key STEM careers:
 
 ---
 
+---
+
+## 📝 Paper-Based Workshop Option
+
+This module works great in classrooms or clubs with no digital access. You can run *Satellites to Seeds* using only printed materials, markers, and a whiteboard — while keeping all key learning outcomes.
+
+### 🧾 What to Prepare
+
+| Resource         | Prep Tip |
+|------------------|----------|
+| **Maps**         | Screenshot your AGOL map with layers ON (climate, soil, risk), then print 1–3 versions on 8.5x11 or 11x17 paper. Laminate if possible for dry-erase reuse. |
+| **Student Worksheet** | Use the PDF as-is or simplify it with boxes and icons for younger students. |
+| **Crop Cards**   | Print the [CropParameterCards.docx](./CropParameterCards.docx) and cut them into cards. Add emoji icons to simplify for Grades 5–6. |
+| **Disaster Cards** | Use the [Canva Disaster Cards](https://www.canva.com/design/DAGnGNAFvbs/3fPB0pZk5TNXZRWa-5o8-Q/edit) as a physical draw deck. Each group draws one mid-way through the activity. |
+| **Stickers or Markers** | Let students "pin" their farms with dot stickers or Sharpie circles. |
+
+### 🧭 Suggested Station Setup (Optional)
+
+Divide the class into 4 teams and rotate through:
+
+1. **Map the Future Farm** – Choose location using printed maps
+2. **Disaster Strikes!** – Draw a card, update farm plan
+3. **Crop Match** – Match crop cards to best zones
+4. **Gallery & Jobs** – Share ideas, vote, and discuss ag careers
+
+Each station runs ~10–15 minutes. No tech needed, just printables and a few classroom supplies.
+
+### 💡 Tips
+
+- Use a whiteboard to draw a basic NC map (coastal, piedmont, mountains) if you can’t print.
+- Add stickers or cutouts (🌱 🌀 ☀️) to represent weather, risk, and soil conditions.
+- Encourage students to justify decisions with visual symbols and short phrases.
+
 ## 🔗 Quick Links
 
 - 🌍 [AGOL Map Viewer](https://4-h.maps.arcgis.com/apps/mapviewer/index.html?webmap=ca87aa8deac14d2fa20b3f142523fc43)
