@@ -27,8 +27,8 @@ Ensure the following:
 | Resource            | File |
 |---------------------|------|
 | 👩‍🏫 Student Worksheet | [`SatellitesToSeeds–StudentWorksheet.pdf`](./SatellitesToSeeds–StudentWorksheet.pdf) |
-| 🎞 Presentation Slides | *Coming soon* |
-| 🧭 Printable Map     | *Coming soon* |
+| 🎞 Presentation Slides | [Presentation](modules/satellites-to-seeds/SatellitesToSeedsPresentation.pptx) |
+| 🧭 Printable Map     | Available within modules/satellites-to-seeds folder! |
 | 🚨 Disaster Cards    | [Disaster Cards PDF](https://www.canva.com/design/DAGnGNAFvbs/3fPB0pZk5TNXZRWa-5o8-Q/edit) |
 | 🌱 Crop Parameters   | [Download Crop Parameter Cards (.docx)](https://github.com/brandonestevez95/youth-map-lab/raw/main/modules/satellites-to-seeds/CropParameterCards.docx)
 
@@ -142,6 +142,8 @@ Highlight key STEM careers:
 ## 📝 Paper-Based Workshop Option
 
 This module works great in classrooms or clubs with no digital access. You can run *Satellites to Seeds* using only printed materials, markers, and a whiteboard — while keeping all key learning outcomes.
+
+[Tip!] A great introduction StoryMap is linked here: https://storymaps.arcgis.com/stories/92e0255b4a484c9db8ef5ca0021f79d5
 
 ### 🧾 What to Prepare
 
