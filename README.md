@@ -1,7 +1,7 @@
-# 🌍 Youth Mapping Lab
+# 🌍 Youth Map Lab
 **AI + GIS Workshops for Curious Minds & Change-Makers**
 
-Welcome to the **Youth Mapping Lab** — where students explore the world, solve real problems, and tell powerful stories using artificial intelligence, satellite data, and GIS technology.
+Welcome to the **Youth Map Lab** — where students explore the world, solve real problems, and tell powerful stories using artificial intelligence, satellite data, and GIS technology.
 
 Developed by youth, for youth, this open-source initiative blends cutting-edge geospatial tools with real-world challenges — from farming to forgotten history — to empower the next generation of digital explorers.
 
@@ -24,14 +24,15 @@ Students step into the role of agri-scientists using real data to design climate
 - 💧 Evaluate environmental risks like droughts and floods
 - 🌾 Build a future farm map (digital or printable)
 
-### 🕰 Build a Time Machine with AI & GIS
+### 🕰 Build a Time Machine with AI
 Students become urban historians, mapping how local communities have changed over time.
 - 🧭 Compare historic vs. modern maps (StoryMap, swipe, or print)
 - 📸 Use AI tools to decode newspaper articles or handwritten records
 - 🗺 Create a "Then–Now–Future" map project
 - 🏙 Explore themes of justice, memory, and neighborhood change
 
----
+### 🏗️ LEGO Workshop
+COMING SOON!
 
 ## 🎯 Who It’s For
 - Middle & high school students (grades 5–9)
