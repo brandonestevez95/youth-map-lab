@@ -7,6 +7,13 @@ Developed by youth, for youth, this open-source initiative blends cutting-edge g
 
 ---
 
+## 🎓 Why Educators Use Youth Map Lab
+Educators choose Youth Map Lab because it’s **plug-and-play**, adaptable, and built for real classrooms. Every module is designed to align with education standards set by North Carolina's Department for Public Instruction while also fitting national STEM, history, and digital literacy goals. Activities are **scalable for any setting** — from fully equipped computer labs to paper-based, low-tech classrooms — ensuring every student can participate meaningfully.
+
+Because it’s youth-developed, the Lab reflects student perspectives and creativity, making activities more engaging and relatable. Facilitator guides, ready-to-use slides, and printable resources save prep time while still leaving room for teacher customization. The result? A program that supports inquiry-based learning, builds digital and spatial thinking skills, and empowers students to take ownership of their projects.
+
+---
+
 ## 🚀 What Students Will Do
 - 🧠 **Think like scientists** — ask big questions and solve real-world problems using data and maps.
 - 🛰️ **Use real tools** — get hands-on with AI, ArcGIS, Google Earth, satellite imagery, and more.
@@ -80,9 +87,9 @@ This is about helping youth not just understand the world — but shape it.
 
 ## 📬 Bring the Lab to Your School or Library
 
-**Contact:** Brandon Estevez  
-📧 brandonestevez@national4hgeospatialteam.us  
-🌎 [Appointment Page](https://your-link.com) • [LinkedIn](https://linkedin.com/in/brandonestevez)
+**Contact:** Brandon Estevez
+youthmaplab@national4hgeospatialteam.us  
+[LinkedIn](https://linkedin.com/in/brandonestevez)
 
 ---
 
