@@ -20,7 +20,7 @@ Welcome to the *Build a Time Machine* workshop — a humanities + GIS learning e
 ### 🗂 Files & Materials
 | Resource | File / Item |
 |----------|-------------|
-| 🗺 Printable Outline Map of Austin | Blank with rivers + key streets |
+| 🗺 Printable Outline Map of Austin | [Paper Maps](./paper-maps/) |
 | ✏️ Student Supplies | Pencils, markers, colored pencils |
 | 📸 Slide Deck | Images of Austin (1900s dirt roads, 1970s music scene, 2020s skyline) |
 
