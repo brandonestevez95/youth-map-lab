@@ -22,8 +22,9 @@ Welcome to the *Build a Time Machine* workshop — a humanities + GIS learning e
 |----------|-------------|
 | 🗺 Printable Outline Map of Austin | [Paper Maps](./paper-maps/) |
 | ✏️ Student Supplies | Pencils, markers, colored pencils |
-|  Slide Deck     | [BuildATimeMachinePresentation.pptx](./BuildATimeMachinePresentation.pptx) – downloadable PowerPoint version of the workshop slides |
-|  Canva presentation   | [Canva version](https://www.canva.com/design/DAGww0I8WlE/63O8rmg1kgYUA4DU66wjzw/edit) – Canva presentation |
+|  🖼️ Slide Deck     | [BuildATimeMachinePresentation.pptx](./BuildATimeMachinePresentation.pptx) – downloadable PowerPoint version of the workshop slides |
+|  🌐 Canva presentation   | [Canva version](https://www.canva.com/design/DAGww0I8WlE/63O8rmg1kgYUA4DU66wjzw/edit) – Canva presentation |
+|  🌎 AGOL Demo   | [AGOL Demo StoryMap](example.com)  |
 
 ---
 
