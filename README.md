@@ -5,9 +5,7 @@
 Youth Map Lab is an open-source library of **AI + GIS learning modules**, built by youth for youth, designed for real classrooms, districts, and community learning spaces.  
 This repository contains the full curriculum, templates, standards alignment, teacher guides, student guides, and ArcGIS resources that power the Youth Map Lab.
 
-This repo is synced with **GitBook**, where educators experience a polished, interactive version of the documentation and curriculum.
-
-👉 **GitBook Docs (Recommended):** *Coming soon — auto-published from this repo*
+This repo is synced with **GitBook**, where educators experience a polished, interactive version of the documentation and curriculum. You can visit that page at youthmaplab.national4hgeospatialteam.us
 
 ---
 
