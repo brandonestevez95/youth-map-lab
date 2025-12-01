@@ -1,27 +1,9 @@
-root: ./README.md
+root: ./gitbook-homepage.md
 
 structure:
   readme: ./README.md
   summary: ./SUMMARY.md
 
-gitbook:
-  sync:
-    provider: github
-    repo: brandonestevez95/youth-map-lab
-    branch: main
-    directories:
-      - curriculum
-      - student-guides
-      - teacher-guides
-      - alignment
-      - arcgis-apps
-      - udl-access
-      - storymap-templates
-    ignore:
-      - leadership
-      - archival-orphans
-      - scripts
-      - cleanup-*
-      - migration-*
-      - videos
-      - README_old.md
+redirects:
+  modules: ./modules/
+  facilitator-resources: ./facilitator-resources/ 
