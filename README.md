@@ -59,6 +59,17 @@ This is about helping youth not just understand the world — but shape it.
 
 ---
 
+## 🧰 Module Scaffolding Toolkit
+Need to spin up a new workshop quickly? Run the helper script to create all curriculum, guide, alignment, and UDL placeholder files without overwriting existing content:
+
+```bash
+bash create_module_placeholders.sh
+```
+
+The script is idempotent, so it is safe to run multiple times as modules evolve.
+
+---
+
 ## 🧰 What’s Included
 - Facilitator guides
 - Printable and digital student materials
