@@ -1,99 +1,86 @@
-# 🌍 Youth Map Lab
-**AI + GIS Workshops for Curious Minds & Change-Makers**
+# 🌍 Youth Map Lab  
 
-Welcome to the **Youth Map Lab** — where students explore the world, solve real problems, and tell powerful stories using artificial intelligence, satellite data, and GIS technology.
+### Open-Source AI + GIS Curriculum for Classrooms, Communities and Clubs.
 
-Developed by youth, for youth, this open-source initiative blends cutting-edge geospatial tools with real-world challenges — from farming to forgotten history — to empower the next generation of digital explorers.
+Youth Map Lab is an open-source library of **AI + GIS learning modules**, built by youth for youth, designed for real classrooms, districts, and community learning spaces.  
+This repository contains the full curriculum, templates, standards alignment, teacher guides, student guides, and ArcGIS resources that power the Youth Map Lab.
 
----
+This repo is synced with **GitBook**, where educators experience a polished, interactive version of the documentation and curriculum.
 
-## 🎓 Why Educators Use Youth Map Lab
-Educators choose Youth Map Lab because it’s **plug-and-play**, adaptable, and built for real classrooms. Every module is designed to align with education standards set by North Carolina's Department for Public Instruction while also fitting national STEM, history, and digital literacy goals. Activities are **scalable for any setting** — from fully equipped computer labs to paper-based, low-tech classrooms — ensuring every student can participate meaningfully.
-
-Because it’s youth-developed, the Lab reflects student perspectives and creativity, making activities more engaging and relatable. Facilitator guides, ready-to-use slides, and printable resources save prep time while still leaving room for teacher customization. The result? A program that supports inquiry-based learning, builds digital and spatial thinking skills, and empowers students to take ownership of their projects.
+👉 **GitBook Docs (Recommended):** *Coming soon — auto-published from this repo*
 
 ---
 
-## 🚀 What Students Will Do
-- 🧠 **Think like scientists** — ask big questions and solve real-world problems using data and maps.
-- 🛰️ **Use real tools** — get hands-on with AI, ArcGIS, Google Earth, satellite imagery, and more.
-- 🗺️ **Make cool stuff** — design a smart farm or build a “time machine” map of community change.
-- 💬 **Tell their story** — present findings like civic tech leaders, scientists, or historians.
+# 📁 Repository Contents
+/curriculum           → All workshop modules (Science, ELA, SS, CTE, STEM/LEGO)
+/teacher-guides       → Facilitator guides, lesson flow, materials, slides
+/student-guides       → Printable and digital handouts
+/storymap-templates   → Cloneable StoryMap starter kits
+/arcgis-apps          → Ready-to-use maps and dashboards
+/udl-access           → Low-tech, high-tech, and accessibility variants
+/alignment            → NC + national standards mapping
+/leadership           → Onboarding, contributor guides, and workflow docs
+/showcase             → Student work examples and district spotlights
+/videos               → Walkthroughs and tutorial recordings
 
 ---
 
-## 🌟 Workshop Modules
+# What Youth Map Lab Provides
 
-### 🛰️ Satellites to Seeds
-Students step into the role of agri-scientists using real data to design climate-smart farms.
-- 📍 Map ideal growing zones with GIS and climate overlays
-- 🤖 Simulate AI-powered plant ID with Teachable Machine
-- 💧 Evaluate environmental risks like droughts and floods
-- 🌾 Build a future farm map (digital or printable)
-
-### 🕰 Build a Time Machine with AI
-Students become urban historians, mapping how local communities have changed over time.
-- 🧭 Compare historic vs. modern maps (StoryMap, swipe, or print)
-- 📸 Use AI tools to decode newspaper articles or handwritten records
-- 🗺 Create a "Then–Now–Future" map project
-- 🏙 Explore themes of justice, memory, and neighborhood change
-
-### 🏗️ LEGO Workshop
-COMING SOON!
-
-## 🎯 Who It’s For
-- Middle & high school students (grades 5–9)
-- Schools, libraries, equity clubs, and after-school programs
-- No experience needed — just curiosity and imagination!
+- **AI + GIS Workshops** for grades 5–12  
+- **Plug-and-play lesson kits** any teacher can run in 45–90 minutes  
+- **Standards-aligned activities** (NC DPI, NGSS, C3, ISTE)  
+- **StoryMap templates + ArcGIS Apps** ready to clone  
+- **UDL variations** for low-tech, high-tech, and no-tech classrooms  
+- **Printable resources** for fast classroom deployment  
+- **Youth-designed content** that resonates with students
 
 ---
 
-## 💡 Why It Matters
-The Youth Mapping Lab builds real skills in:
-- 🌱 Environmental science
-- 🧠 Spatial thinking & digital literacy
-- 📍 Civic equity & historical memory
-- 🤖 Responsible, hands-on AI use
+# 🔧 Development & Contribution
 
-This is about helping youth not just understand the world — but shape it.
+Youth Map Lab is intentionally open-source and designed by 4-H youth in the National 4-H Geospatial Team.
 
----
+### 📝 How to Contribute
+1. Fork this repository  
+2. Add or improve modules (curriculum, guides, templates, UDL versions)  
+3. Submit a pull request  
+4. Follow internal documentation in:
 
-## 🧰 What’s Included
-- Facilitator guides
-- Printable and digital student materials
-- ArcGIS Online + QGIS support
-- AI demos and tools
-- Raspberry Pi & sensor integrations (optional)
+- `leadership/onboarding/`
+- `leadership/contributor-guides/`
+- `leadership/workflow-guide.md`
 
-> ⚡ Just bring a space, AV access, and eager students — we bring everything else.
-
----
-
-## 🛠 How to Use This Repo
-1. Clone or download the repo  
-2. Browse `/modules` to find a ready-to-use workshop  
-3. Check out [`Getting-Started.md`](./facilitator-resources/Getting-Started.md) for setup instructions  
-4. Use the guides, printables, and maps to lead your own AI + GIS experience  
-5. Fork and contribute new content!
+### 🛠 Requirements
+- Markdown  
+- GitHub Basics  
+- Optional: ArcGIS Online account for app/template testing  
 
 ---
 
-## 🖇 Useful Links
-- 📘 [View full documentation on GitBook](WIP)
-- 🌐 [Visit the National 4-H Geospatial Team site](https://www.national4hgeospatialteam.us)
+# 🔄 GitBook Sync
+
+This repo is synced to GitBook via `.gitbook.yaml`, enabling:
+
+- Automatic publishing of updated curriculum  
+- Clean documentation navigation  
+- Easy access for educators and district partners  
+- Two-way editing via GitHub or GitBook
 
 ---
 
-## 📬 Bring the Lab to Your School or Library
+# 📬 Contact
 
-**Contact:** Brandon Estevez
-youthmaplab@national4hgeospatialteam.us  
-[LinkedIn](https://linkedin.com/in/brandonestevez)
+**Brandon Estevez**  
+Director, National 4-H Geospatial Leadership Team  
+📧 youthmaplab@national4hgeospatialteam.us  
+🔗 https://linkedin.com/in/brandonestevez
 
 ---
 
-## 📝 License
-All content is shared under a **Creative Commons Attribution 4.0 License (CC-BY 4.0)**. Remix, adapt, and build upon this work — just give credit.
+# 📝 License
+
+Youth Map Lab is released under **CC BY 4.0**.  
+You may remix, adapt, and build upon this work with attribution.
 
 © 2025 National 4-H Geospatial Leadership Team
