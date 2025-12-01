@@ -1,4 +1,4 @@
-# 🌍 Youth Map Lab — Roadmap (2025–2027)
+# 🌍 Youth Map Lab Roadmap (2025–2027)
 
 Youth Map Lab was originally created to help the National 4-H Geospatial Leadership Team meet partnership goals with NC A&T and Google.  
 It has since grown into something bigger:
