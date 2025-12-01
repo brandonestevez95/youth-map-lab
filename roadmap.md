@@ -29,7 +29,8 @@ Simple, transparent checklists for where we’re headed.
   - [ ] StoryMap Templates  
   - [ ] UDL & Accessibility pages  
 - [ ] Add example demos + sample StoryMaps  
-- [ ] Add contributor guidelines for new student team members  
+- [ ] Add contributor guidelines for new student team members
+- [ ] Begin GitBook integration for front-end
 
 ### Core Modules to Finish  
 - [ ] Marine Science Module  
