@@ -59,6 +59,20 @@ This is about helping youth not just understand the world — but shape it.
 
 ---
 
+## 🧰 Module Scaffolding Toolkit
+Need to spin up a new workshop quickly? Run the helper script to create all curriculum, guide, alignment, and UDL placeholder files without overwriting existing content:
+
+```bash
+bash create_module_placeholders.sh
+```
+
+The script is idempotent, so it is safe to run multiple times as modules evolve.
+
+### 🔀 Keeping `main` in Sync
+This repository keeps the latest scaffolding work on the `work` branch and fast-forwards `main` after reviews. When you are ready to publish updates, open a PR from `work` to `main` and merge it to ensure GitBook and downstream consumers stay aligned.
+
+---
+
 ## 🧰 What’s Included
 - Facilitator guides
 - Printable and digital student materials
