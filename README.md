@@ -45,9 +45,23 @@ Youth Map Lab is intentionally open-source and designed by 4-H youth in the Nati
 3. Submit a pull request  
 4. Follow internal documentation in:
 
-- `leadership/onboarding/`
-- `leadership/contributor-guides/`
-- `leadership/workflow-guide.md`
+## 🧰 Module Scaffolding Toolkit
+Need to spin up a new workshop quickly? Run the helper script to create all curriculum, guide, alignment, and UDL placeholder files without overwriting existing content:
+
+```bash
+bash create_module_placeholders.sh
+```
+
+The script is idempotent, so it is safe to run multiple times as modules evolve.
+
+---
+
+## 🧰 What’s Included
+- Facilitator guides
+- Printable and digital student materials
+- ArcGIS Online + QGIS support
+- AI demos and tools
+- Raspberry Pi & sensor integrations (optional)
 
 ### 🛠 Requirements
 - Markdown  

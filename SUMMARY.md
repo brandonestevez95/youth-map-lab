@@ -1,0 +1,241 @@
+# Youth Map Lab Curriculum Catalog
+
+## Home
+- [Welcome](README.md)
+- [Roadmap](roadmap.md)
+
+## Workshops
+### Social Studies
+- [Civics](curriculum/social-studies/civics/README.md)
+- [Local History](curriculum/social-studies/local-history/README.md)
+- Build A Time Machine (Historical GIS)
+  - Curriculum
+    - [Overview](curriculum/social-studies/historical-gis/build-a-time-machine/overview.md)
+    - [Activity Flow](curriculum/social-studies/historical-gis/build-a-time-machine/activity-flow.md)
+    - [Materials List](curriculum/social-studies/historical-gis/build-a-time-machine/materials-list.md)
+    - [Dataset Notes](curriculum/social-studies/historical-gis/build-a-time-machine/dataset-notes.md)
+    - [StoryMap Notes](curriculum/social-studies/historical-gis/build-a-time-machine/storymap-notes.md)
+  - Teacher Guides
+    - [Facilitator Guide](teacher-guides/social-studies/historical-gis/build-a-time-machine/facilitator-guide.md)
+    - [Timing And Variants](teacher-guides/social-studies/historical-gis/build-a-time-machine/timing-and-variants.md)
+    - [Troubleshooting](teacher-guides/social-studies/historical-gis/build-a-time-machine/troubleshooting.md)
+  - Student Guides
+    - [Student Handout](student-guides/social-studies/historical-gis/build-a-time-machine/student-handout.md)
+    - [Reflection Prompts](student-guides/social-studies/historical-gis/build-a-time-machine/reflection-prompts.md)
+  - Standards Alignment
+    - [NC Standards](alignment/nc-standards/build-a-time-machine.md)
+    - [National Standards](alignment/national-standards/build-a-time-machine.md)
+  - UDL Access
+    - [Low Tech Variants](udl-access/low-tech-variants/build-a-time-machine.md)
+    - [High Tech Variants](udl-access/high-tech-variants/build-a-time-machine.md)
+    - [Spanish Translation](udl-access/english-spanish-translation/build-a-time-machine-es.md)
+  - ArcGIS Apps
+    - [Build A Time Machine App](arcgis-apps/build-a-time-machine/README.md)
+  - StoryMap Template
+    - [Build A Time Machine Template](storymap-templates/build-a-time-machine-template.md)
+
+### Science
+- [Precision Ag](curriculum/science/precision-ag/README.md)
+- [Landcover](curriculum/science/landcover/README.md)
+- Satellites To Seeds (Agriculture Climate)
+  - Curriculum
+    - [Overview](curriculum/science/agriculture-climate/satellites-to-seeds/overview.md)
+    - [Activity Flow](curriculum/science/agriculture-climate/satellites-to-seeds/activity-flow.md)
+    - [Materials List](curriculum/science/agriculture-climate/satellites-to-seeds/materials-list.md)
+    - [Dataset Notes](curriculum/science/agriculture-climate/satellites-to-seeds/dataset-notes.md)
+    - [StoryMap Notes](curriculum/science/agriculture-climate/satellites-to-seeds/storymap-notes.md)
+  - Teacher Guides
+    - [Facilitator Guide](teacher-guides/science/agriculture-climate/satellites-to-seeds/facilitator-guide.md)
+    - [Timing And Variants](teacher-guides/science/agriculture-climate/satellites-to-seeds/timing-and-variants.md)
+    - [Troubleshooting](teacher-guides/science/agriculture-climate/satellites-to-seeds/troubleshooting.md)
+  - Student Guides
+    - [Student Handout](student-guides/science/agriculture-climate/satellites-to-seeds/student-handout.md)
+    - [Reflection Prompts](student-guides/science/agriculture-climate/satellites-to-seeds/reflection-prompts.md)
+  - Standards Alignment
+    - [NC Standards](alignment/nc-standards/satellites-to-seeds.md)
+    - [National Standards](alignment/national-standards/satellites-to-seeds.md)
+  - UDL Access
+    - [Low Tech Variants](udl-access/low-tech-variants/satellites-to-seeds.md)
+    - [High Tech Variants](udl-access/high-tech-variants/satellites-to-seeds.md)
+    - [Spanish Translation](udl-access/english-spanish-translation/satellites-to-seeds-es.md)
+  - ArcGIS Apps
+    - [Satellites To Seeds App](arcgis-apps/satellites-to-seeds/README.md)
+  - StoryMap Template
+    - [Satellites To Seeds Template](storymap-templates/satellites-to-seeds-template.md)
+- Marine Science
+  - Curriculum
+    - [Overview](curriculum/science/marine-science/overview.md)
+    - [Activity Flow](curriculum/science/marine-science/activity-flow.md)
+    - [Materials List](curriculum/science/marine-science/materials-list.md)
+    - [Dataset Notes](curriculum/science/marine-science/dataset-notes.md)
+    - [StoryMap Notes](curriculum/science/marine-science/storymap-notes.md)
+  - Teacher Guides
+    - [Facilitator Guide](teacher-guides/science/marine-science/facilitator-guide.md)
+    - [Timing And Variants](teacher-guides/science/marine-science/timing-and-variants.md)
+    - [Troubleshooting](teacher-guides/science/marine-science/troubleshooting.md)
+  - Student Guides
+    - [Student Handout](student-guides/science/marine-science/student-handout.md)
+    - [Reflection Prompts](student-guides/science/marine-science/reflection-prompts.md)
+  - Standards Alignment
+    - [NC Standards](alignment/nc-standards/marine-science.md)
+    - [National Standards](alignment/national-standards/marine-science.md)
+  - UDL Access
+    - [Low Tech Variants](udl-access/low-tech-variants/marine-science.md)
+    - [High Tech Variants](udl-access/high-tech-variants/marine-science.md)
+    - [Spanish Translation](udl-access/english-spanish-translation/marine-science-es.md)
+  - ArcGIS Apps
+    - [Marine Science App](arcgis-apps/marine-science/README.md)
+  - StoryMap Template
+    - [Marine Science Template](storymap-templates/marine-science-template.md)
+
+### STEM & Engineering
+- [Sensors Engineering GIS](curriculum/stem-lego/sensors-engineering-gis/README.md)
+- Lego City Design
+  - Curriculum
+    - [Overview](curriculum/stem-lego/lego-city-design/overview.md)
+    - [Activity Flow](curriculum/stem-lego/lego-city-design/activity-flow.md)
+    - [Materials List](curriculum/stem-lego/lego-city-design/materials-list.md)
+    - [Dataset Notes](curriculum/stem-lego/lego-city-design/dataset-notes.md)
+    - [StoryMap Notes](curriculum/stem-lego/lego-city-design/storymap-notes.md)
+  - Teacher Guides
+    - [Facilitator Guide](teacher-guides/stem-lego/lego-city-design/facilitator-guide.md)
+    - [Timing And Variants](teacher-guides/stem-lego/lego-city-design/timing-and-variants.md)
+    - [Troubleshooting](teacher-guides/stem-lego/lego-city-design/troubleshooting.md)
+  - Student Guides
+    - [Student Handout](student-guides/stem-lego/lego-city-design/student-handout.md)
+    - [Reflection Prompts](student-guides/stem-lego/lego-city-design/reflection-prompts.md)
+  - Standards Alignment
+    - [NC Standards](alignment/nc-standards/lego-city-design.md)
+    - [National Standards](alignment/national-standards/lego-city-design.md)
+  - UDL Access
+    - [Low Tech Variants](udl-access/low-tech-variants/lego-city-design.md)
+    - [High Tech Variants](udl-access/high-tech-variants/lego-city-design.md)
+    - [Spanish Translation](udl-access/english-spanish-translation/lego-city-design-es.md)
+  - ArcGIS Apps
+    - [Lego City Design App](arcgis-apps/lego-city-design/README.md)
+  - StoryMap Template
+    - [Lego City Design Template](storymap-templates/lego-city-design-template.md)
+- Disaster Response
+  - Curriculum
+    - [Overview](curriculum/stem-lego/disaster-response/overview.md)
+    - [Activity Flow](curriculum/stem-lego/disaster-response/activity-flow.md)
+    - [Materials List](curriculum/stem-lego/disaster-response/materials-list.md)
+    - [Dataset Notes](curriculum/stem-lego/disaster-response/dataset-notes.md)
+    - [StoryMap Notes](curriculum/stem-lego/disaster-response/storymap-notes.md)
+  - Teacher Guides
+    - [Facilitator Guide](teacher-guides/stem-lego/disaster-response/facilitator-guide.md)
+    - [Timing And Variants](teacher-guides/stem-lego/disaster-response/timing-and-variants.md)
+    - [Troubleshooting](teacher-guides/stem-lego/disaster-response/troubleshooting.md)
+  - Student Guides
+    - [Student Handout](student-guides/stem-lego/disaster-response/student-handout.md)
+    - [Reflection Prompts](student-guides/stem-lego/disaster-response/reflection-prompts.md)
+  - Standards Alignment
+    - [NC Standards](alignment/nc-standards/disaster-response.md)
+    - [National Standards](alignment/national-standards/disaster-response.md)
+  - UDL Access
+    - [Low Tech Variants](udl-access/low-tech-variants/disaster-response.md)
+    - [High Tech Variants](udl-access/high-tech-variants/disaster-response.md)
+    - [Spanish Translation](udl-access/english-spanish-translation/disaster-response-es.md)
+  - ArcGIS Apps
+    - [Disaster Response App](arcgis-apps/disaster-response/README.md)
+  - StoryMap Template
+    - [Disaster Response Template](storymap-templates/disaster-response-template.md)
+
+### ELA
+- Literature Mapping
+  - Curriculum
+    - [Overview](curriculum/ela/literature-mapping/overview.md)
+    - [Activity Flow](curriculum/ela/literature-mapping/activity-flow.md)
+    - [Materials List](curriculum/ela/literature-mapping/materials-list.md)
+    - [Dataset Notes](curriculum/ela/literature-mapping/dataset-notes.md)
+    - [StoryMap Notes](curriculum/ela/literature-mapping/storymap-notes.md)
+  - Teacher Guides
+    - [Facilitator Guide](teacher-guides/ela/literature-mapping/facilitator-guide.md)
+    - [Timing And Variants](teacher-guides/ela/literature-mapping/timing-and-variants.md)
+    - [Troubleshooting](teacher-guides/ela/literature-mapping/troubleshooting.md)
+  - Student Guides
+    - [Student Handout](student-guides/ela/literature-mapping/student-handout.md)
+    - [Reflection Prompts](student-guides/ela/literature-mapping/reflection-prompts.md)
+  - Standards Alignment
+    - [NC Standards](alignment/nc-standards/literature-mapping.md)
+    - [National Standards](alignment/national-standards/literature-mapping.md)
+  - UDL Access
+    - [Low Tech Variants](udl-access/low-tech-variants/literature-mapping.md)
+    - [High Tech Variants](udl-access/high-tech-variants/literature-mapping.md)
+    - [Spanish Translation](udl-access/english-spanish-translation/literature-mapping-es.md)
+  - ArcGIS Apps
+    - [Literature Mapping App](arcgis-apps/literature-mapping/README.md)
+  - StoryMap Template
+    - [Literature Mapping Template](storymap-templates/literature-mapping-template.md)
+- Geostorytelling101 (Storytelling 101)
+  - Curriculum
+    - [Overview](curriculum/ela/storytelling-101/geostorytelling101/overview.md)
+    - [Activity Flow](curriculum/ela/storytelling-101/geostorytelling101/activity-flow.md)
+    - [Materials List](curriculum/ela/storytelling-101/geostorytelling101/materials-list.md)
+    - [Dataset Notes](curriculum/ela/storytelling-101/geostorytelling101/dataset-notes.md)
+    - [StoryMap Notes](curriculum/ela/storytelling-101/geostorytelling101/storymap-notes.md)
+  - Teacher Guides
+    - [Facilitator Guide](teacher-guides/ela/storytelling-101/geostorytelling101/facilitator-guide.md)
+    - [Timing And Variants](teacher-guides/ela/storytelling-101/geostorytelling101/timing-and-variants.md)
+    - [Troubleshooting](teacher-guides/ela/storytelling-101/geostorytelling101/troubleshooting.md)
+  - Student Guides
+    - [Student Handout](student-guides/ela/storytelling-101/geostorytelling101/student-handout.md)
+    - [Reflection Prompts](student-guides/ela/storytelling-101/geostorytelling101/reflection-prompts.md)
+  - Standards Alignment
+    - [NC Standards](alignment/nc-standards/geostorytelling101.md)
+    - [National Standards](alignment/national-standards/geostorytelling101.md)
+  - UDL Access
+    - [Low Tech Variants](udl-access/low-tech-variants/geostorytelling101.md)
+    - [High Tech Variants](udl-access/high-tech-variants/geostorytelling101.md)
+    - [Spanish Translation](udl-access/english-spanish-translation/geostorytelling101-es.md)
+  - ArcGIS Apps
+    - [Geostorytelling101 App](arcgis-apps/geostorytelling101/README.md)
+  - StoryMap Template
+    - [Geostorytelling101 Template](storymap-templates/geostorytelling101-template.md)
+
+### Business & CTE
+- [Entrepreneurship Storymaps](curriculum/business/entrepreneurship-storymaps/README.md)
+- [Demographic Analysis](curriculum/business/demographic-analysis/README.md)
+- Business Analyst Site Selection (Business)
+  - Curriculum
+    - [Business101 Overview](curriculum/business/business-analyst-site-selection/business101/README.md)
+- Business Analyst Site Selection (Business CTE)
+  - Curriculum
+    - [Overview](curriculum/business-cte/business-analyst-site-selection/business101/overview.md)
+    - [Activity Flow](curriculum/business-cte/business-analyst-site-selection/business101/activity-flow.md)
+    - [Materials List](curriculum/business-cte/business-analyst-site-selection/business101/materials-list.md)
+    - [Dataset Notes](curriculum/business-cte/business-analyst-site-selection/business101/dataset-notes.md)
+    - [StoryMap Notes](curriculum/business-cte/business-analyst-site-selection/business101/storymap-notes.md)
+  - Teacher Guides
+    - [Facilitator Guide](teacher-guides/business-cte/business-analyst-site-selection/business101/facilitator-guide.md)
+    - [Timing And Variants](teacher-guides/business-cte/business-analyst-site-selection/business101/timing-and-variants.md)
+    - [Troubleshooting](teacher-guides/business-cte/business-analyst-site-selection/business101/troubleshooting.md)
+  - Student Guides
+    - [Student Handout](student-guides/business-cte/business-analyst-site-selection/business101/student-handout.md)
+    - [Reflection Prompts](student-guides/business-cte/business-analyst-site-selection/business101/reflection-prompts.md)
+  - Standards Alignment
+    - [NC Standards](alignment/nc-standards/business101.md)
+    - [National Standards](alignment/national-standards/business101.md)
+  - UDL Access
+    - [Low Tech Variants](udl-access/low-tech-variants/business101.md)
+    - [High Tech Variants](udl-access/high-tech-variants/business101.md)
+    - [Spanish Translation](udl-access/english-spanish-translation/business101-es.md)
+  - ArcGIS Apps
+    - [Business Analyst 101 App](arcgis-apps/business101/README.md)
+  - StoryMap Template
+    - [Business Analyst 101 Template](storymap-templates/business101-template.md)
+
+## Teacher Toolkit
+- [Facilitator Guides](teacher-guides/README.md)
+- [UDL Access](udl-access/README.md)
+- [National Standards Alignment](alignment/national-standards/README.md)
+- [ArcGIS Apps](arcgis-apps/README.md)
+- [StoryMap Templates](storymap-templates/README.md)
+
+## Youth Contributor Handbook
+- [How To Contribute](leadership/CONTRIBUTING.md)
+- [Style Guide](leadership/STYLE.md)
+
+## About Youth Map Lab
+- [Mission](leadership/mission.md)
+- [Team](leadership/team.md)
