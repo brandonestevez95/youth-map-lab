@@ -1,3 +1,4 @@
+root: ./README.md
 root: ./gitbook-homepage.md
 
 structure:
