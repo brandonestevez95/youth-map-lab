@@ -24,13 +24,13 @@ By the end of this workshop, students will be able to:
 ## 📘 Teacher-Friendly Versioning  
 This module includes **three flexible versions**:
 
-### **Version B (MVP – Standard Classroom)**  
-- AGOL farm site selector  
+### **Version A (MVP – Standard Classroom)**  
+- ArcGIS Online farm site selector  
 - Climate/soil/water layers  
 - Optional Teachable Machine “plant stress” model  
 - Students create a digital farm polygon + reflection  
 
-### **Version A (Low-Tech / No-Device)**  
+### **Version B (Low-Tech / No-Device)**  
 - Printed maps, acetate overlays, color shading  
 - Small-group decision-making  
 - Facilitator demonstrates AI ethically  
