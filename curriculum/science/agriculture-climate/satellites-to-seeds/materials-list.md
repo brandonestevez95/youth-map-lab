@@ -1,6 +1,6 @@
 # Materials List for Satellites to Seeds
 
-## 🖥️ Technology (Version B & C)
+## 🖥️ Technology (Version A & C)
 - Teacher computer + projector  
 - Student laptops or tablets (1:1 or 1:2)  
 - Internet access  
@@ -10,7 +10,7 @@
 
 ---
 
-## 🗺️ Printing (Version A)
+## 🗺️ Printing (Version B)
 - Base map (8.5x11 or 11x17)  
 - Overlay transparencies:  
   - Water  
