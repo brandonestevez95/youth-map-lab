@@ -24,7 +24,7 @@ By the end of this workshop, students will be able to:
 ## 📘 Teacher-Friendly Versioning  
 This module includes **three flexible versions**:
 
-### **Version A (MVP – Standard Classroom)**  
+### **Version A (Standard Classroom)**  
 - ArcGIS Online farm site selector  
 - Climate/soil/water layers  
 - Optional Teachable Machine “plant stress” model  
