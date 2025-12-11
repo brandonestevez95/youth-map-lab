@@ -8,10 +8,10 @@
 2. Open AGOL map or distribute paper maps.  
 3. Follow the pacing guide.  
 4. End with student proposals + reflections.
-
+ 
 ---
 
-# 🔵 Version B: Standard (MVP) – 60–75 Minutes  
+# 🔵 Version A: Standard– 60–75 Minutes  
 **Recommended for most classrooms.**
 
 ### 1. Welcome & Hook (5 minutes)  
@@ -76,7 +76,7 @@ Export or photograph maps → add **Made with Youth Map Lab** badge.
 
 ---
 
-# 🟡 Version A: Low-Tech – 45 minutes
+# 🟡 Version B: Low-Tech – 45 minutes
 
 ### 1. Paper map handout  
 Printed base map + acetate overlays for climate, water, soils.
